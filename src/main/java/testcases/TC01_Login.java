@@ -13,7 +13,7 @@ public class TC01_Login extends OpentapsWrappers {
 		browserName="chrome";
 		dataSheetName="TC001";
 		testCaseName="Login";
-		testDescription="Login to Opentaps(Positive)";
+		testDescription="Login to Opentaps(Positive)changes";
 	}
 	
 	
